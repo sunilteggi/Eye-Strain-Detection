@@ -68,9 +68,6 @@ The eye aspect ratio is approximately constant while the eye is open, but will r
 In this project, I have used existing Deep Learning models that detect faces and facial landmarks from images/video streams. These return the coordinates of the facial features like left eye, right eye, nose, etc. which have been used to calculate EAR. Blinking rate is monitored per minute.
 
 
-## Demo 
-
-You can view a demo of this project here : https://youtu.be/Tt2DR8FvYDk
 
 ## Scope for improvement & future plans
 
